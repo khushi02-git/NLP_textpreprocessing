@@ -1,2 +1,9 @@
 # NLP_textpreprocessing
-Tokenization,Stemming,Lemmatization,NER,partsofspeech,remove_stopwords
+
+
+
+                        Input
+                          |
+Tokenize/remove stopwords/POS tagging/stem/lemmatize/NER
+                          |
+                        Output
